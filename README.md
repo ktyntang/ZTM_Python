@@ -1,5 +1,5 @@
 # ZTM_Python
-Projects from ZTM Python Developer course
+Mini projects from ZTM Python Developer course
 
 
 randomnumbergame: guess number between 1 to 10
